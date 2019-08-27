@@ -9,4 +9,4 @@ Information:
 Just copy the "arcdps_updater.exe" to your "Guild Wars 2"-directory and run it.
 It will download the common arcdps-files from this URL: https://www.deltaconnected.com/arcdps/x64/
 
-Download lastest release: [Download](https://github.com/AtroxObitus/arcdps_updater/releases/latest)
+[Download](https://github.com/AtroxObitus/arcdps_updater/releases/latest) lastest release.
